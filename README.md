@@ -5,7 +5,8 @@ You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnap
 
 ![FIFA WC 2022 Qatar](dataset-cover.jpg)
 
-[![travis][travis-image]][travis-url]
+## Python Packeges Used:
+**Numpy, Pandas, Matplotlib, Seaborn, Plotly**
 
 # What is Exploratory Data Analysis?
 Exploratory Data Analysis (EDA) is a technique used to gain insights and understanding from a given dataset. It is an approach for analyzing and summarizing data that allows analysts to identify patterns, trends, and relationships within the data. EDA is typically the first step in the data analysis process and also is an iterative process that involves visualizing and summarizing the data in various ways.
