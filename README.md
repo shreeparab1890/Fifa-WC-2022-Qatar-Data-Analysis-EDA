@@ -93,7 +93,7 @@ Please Go thorugh the ipython file for more in detail analysis, below are some k
 ### Total Venues:8
 ### Venues: 
      Lusail Iconic Stadium, Al Bayt Stadium, Khalifa International Stadium, Education City Stadium, Al Thumama Stadium, Ahmed bin Ali Stadium, Stadium 974, Al Janoub Stadium
-### Vanues according to the matches played:
+### Venues according to the matches played:
      Lusail Iconic Stadium            10
      Al Bayt Stadium                   9
      Khalifa International Stadium     8
@@ -103,7 +103,7 @@ Please Go thorugh the ipython file for more in detail analysis, below are some k
      Stadium 974                       7
      Al Janoub Stadium                 7
      
-### Vanues according to the attendance:
+### Venues according to the attendance:
      Lusail Iconic Stadium            874607
      Al Bayt Stadium                  601149
      Khalifa International Stadium    355552
