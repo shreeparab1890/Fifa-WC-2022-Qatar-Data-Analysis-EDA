@@ -36,6 +36,14 @@ Another important aspect of EDA is summarizing the data using statistical measur
 EDA can also include data cleaning and preprocessing, which is the process of identifying and correcting errors or inconsistencies in the data. This can include handling missing data, removing outliers, or transforming variables to make the data more suitable for analysis.
 
 Overall, EDA is a crucial step in the data analysis process, as it allows analysts to gain a deeper understanding of the data and identify any potential issues or limitations before proceeding with more advanced analysis. It also can also be a great way to find the insights that can guide the further analysis.
+
+## FIFA World Cup 
+The FIFA World Cup is an international soccer tournament contested by the men's national teams of the members of Fédération Internationale de Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since 1930, except in 1942 and 1946, due to World War II.
+
+## 2022 FIFA World Cup 
+The 2022 FIFA World Cup is scheduled to be the 22nd edition of the FIFA World Cup, the quadrennial international men's football championship contested by the national teams of the member associations of FIFA. It is scheduled to take place in Qatar from 21 November to 18 December 2022. This will be the first World Cup ever to be held in the Middle East and the first in November and December instead of the traditional June and July. The tournament is planned to be played in 8 venues across 5 host cities in the country.
+
+This edition of the World Cup will feature 32 teams, an increase of 16 teams compared to the previous editions. Also this tournament going to be the first to play in the 48 team format ,which was confirmed in 2017 by FIFA council.
  
 ## About Data:
 The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 59 Columns and has data of all 64 matches played in the world cup 2022. 
