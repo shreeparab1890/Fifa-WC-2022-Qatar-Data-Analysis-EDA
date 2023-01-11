@@ -76,6 +76,8 @@ For Analysis purpose we have done feature engineering on the above csv file to c
 
 The Dataset(CSV) does not have any null data and has no duplicate entry. 
 
+## EDA (Data Analysis Results):
+Please Go thorugh the ipython file for all the results. 
 
 
 
