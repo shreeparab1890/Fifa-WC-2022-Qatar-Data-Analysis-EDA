@@ -77,9 +77,63 @@ For Analysis purpose we have done feature engineering on the above csv file to c
 The Dataset(CSV) does not have any null data and has no duplicate entry. 
 
 ## EDA (Data Analysis Results):
-Please Go thorugh the ipython file for all the results. 
+Please Go thorugh the ipython file for more in detail analysis, below are some key Details. 
+
+### Finalist:
+    ARGENTINA and FRANCE
+
+### WC Winner:
+    ARGENTINA
+    
 ### Teams:
 ![FIFA WC 2022 Qatar: Teams](teams.png)
+### Total Teams Played: 32
+### Teams: 
+     ARGENTINA, CROATIA, NETHERLANDS, ENGLAND, FRANCE, JAPAN, BRAZIL, PORTUGAL, MOROCCO, TUNISIA, SPAIN, QATAR, POLAND, KOREA REPUBLIC, WALES, BELGIUM, CAMEROON, GHANA, URUGUAY, UNITED STATES, SWITZERLAND, SERBIA, SENEGAL, IRAN, CANADA, COSTA RICA, DENMARK, ECUADOR, GERMANY, MEXICO, AUSTRALIA, SAUDI ARABIA
+### Total Venues:8
+### Venues: 
+     Lusail Iconic Stadium, Al Bayt Stadium, Khalifa International Stadium, Education City Stadium, Al Thumama Stadium, Ahmed bin Ali Stadium, Stadium 974, Al Janoub Stadium
+### Vanues according to the matches played:
+     Lusail Iconic Stadium            10
+     Al Bayt Stadium                   9
+     Khalifa International Stadium     8
+     Al Thumama Stadium                8
+     Education City Stadium            8
+     Ahmed bin Ali Stadium             7
+     Stadium 974                       7
+     Al Janoub Stadium                 7
+     
+### Vanues according to the attendance:
+     Lusail Iconic Stadium            874607
+     Al Bayt Stadium                  601149
+     Khalifa International Stadium    355552
+     Education City Stadium           349114
+     Al Thumama Stadium               337685
+     Ahmed bin Ali Stadium            299517
+     Stadium 974                      297854
+     Al Janoub Stadium                288774
+
+### Highest Goal Scoring Team:
+    France: scored 16 Goals
+
+### Team with Highest pass accuracy:
+    ARGENTINA
+
+### Team with Highest possession:
+    SPAIN: 75.75%
+
+### Team with Max Yellow Cards:
+    ARGENTINA: 16 cards
+    
+### Teams with Red Cards:
+    CAMEROON, MOROCCO, WALES: 1 each
+    
+### Teams with own goals:
+    ARGENTINA, MOROCCO: 1 each
+
+### Top 2 Goal Scorer of WC 2022:
+    Kylian Mbappe 8 Goals
+    Lionel Messi 7 Goals
 
 
 
