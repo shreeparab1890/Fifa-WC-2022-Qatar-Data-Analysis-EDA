@@ -29,9 +29,8 @@ Another important aspect of EDA is summarizing the data using statistical measur
 EDA can also include data cleaning and preprocessing, which is the process of identifying and correcting errors or inconsistencies in the data. This can include handling missing data, removing outliers, or transforming variables to make the data more suitable for analysis.
 
 Overall, EDA is a crucial step in the data analysis process, as it allows analysts to gain a deeper understanding of the data and identify any potential issues or limitations before proceeding with more advanced analysis. It also can also be a great way to find the insights that can guide the further analysis.
-
-## Coming Back to the project:  
-### Data Collection:
+ 
+## About Data:
 The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 59 Columns and has data of all 64 matches played in the world cup 2022. 
 The columns can be divided into:
 ### Basic Match details: 
@@ -69,6 +68,7 @@ For Analysis purpose we have done feature engineering on the above csv file to c
 2. Pass Acuracy ( (1_passes / 1_passes_compeletd)*100)
 
 The Dataset(CSV) does not have any null data and has no duplicate entry. 
+
 
 
 
