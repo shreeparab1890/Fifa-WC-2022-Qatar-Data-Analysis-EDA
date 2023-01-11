@@ -78,6 +78,8 @@ The Dataset(CSV) does not have any null data and has no duplicate entry.
 
 ## EDA (Data Analysis Results):
 Please Go thorugh the ipython file for all the results. 
+### Teams:
+![FIFA WC 2022 Qatar: Teams](teams.png)
 
 
 
