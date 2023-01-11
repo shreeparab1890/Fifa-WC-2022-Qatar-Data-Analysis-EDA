@@ -8,6 +8,16 @@ You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnap
 ## Python Packeges Used:
 **Numpy, Pandas, Matplotlib, Seaborn, Plotly**
 
+# get-package-readme [![Numpy]][numpy-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+
+[numpy-url]: https://numpy.org/doc/stable/
+[npm-image]: https://img.shields.io/npm/v/get-package-readme.svg
+[npm-url]: https://npmjs.org/package/get-package-readme
+[downloads-image]: https://img.shields.io/npm/dm/get-package-readme.svg
+[downloads-url]: https://npmjs.org/package/get-package-readme
+[standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
+[standard-url]: https://standardjs.com
+
 # What is Exploratory Data Analysis?
 Exploratory Data Analysis (EDA) is a technique used to gain insights and understanding from a given dataset. It is an approach for analyzing and summarizing data that allows analysts to identify patterns, trends, and relationships within the data. EDA is typically the first step in the data analysis process and also is an iterative process that involves visualizing and summarizing the data in various ways.
 
