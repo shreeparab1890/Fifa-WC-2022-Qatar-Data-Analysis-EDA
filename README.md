@@ -141,7 +141,7 @@ Please Go thorugh the ipython file for more in detail analysis, below are some k
 ### Teams with own goals:
     ARGENTINA, MOROCCO: 1 each
 
-### Top 2 Goal Scorer of WC 2022:
+### Top 2 Goal Scorer of World Cup 2022:
     Kylian Mbappe 8 Goals
     Lionel Messi 7 Goals
 
