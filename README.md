@@ -46,6 +46,9 @@ The FIFA World Cup is an international soccer tournament contested by the men's 
 The 2022 FIFA World Cup is scheduled to be the 22nd edition of the FIFA World Cup, the quadrennial international men's football championship contested by the national teams of the member associations of FIFA. It is scheduled to take place in Qatar from 21 November to 18 December 2022. This will be the first World Cup ever to be held in the Middle East and the first in November and December instead of the traditional June and July. The tournament is planned to be played in 8 venues across 5 host cities in the country.
 
 This edition of the World Cup will feature 32 teams, an increase of 16 teams compared to the previous editions. Also this tournament going to be the first to play in the 48 team format ,which was confirmed in 2017 by FIFA council.
+
+## The Task:
+The task was to analyze the Fifa WC 2022 data and answer some key questionas like, top goal scorer, team with max possesion, team with max pass accuracy, highest goal scorer team in WC and so on. 
  
 ## About Data:
 The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 59 Columns and has data of all 64 matches played in the world cup 2022. 
