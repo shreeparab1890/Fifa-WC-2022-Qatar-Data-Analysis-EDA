@@ -51,7 +51,7 @@ This edition of the World Cup will feature 32 teams, an increase of 16 teams com
 The task was to analyze the Fifa WC 2022 data and answer some key questionas like, top goal scorer, team with max possesion, team with max pass accuracy, highest goal scorer team in WC and so on. 
 
 ## Process:
-![Process](process.png)
+![Process](process.jpg)
  
 ## About Data:
 The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 59 Columns and has data of all 64 matches played in the world cup 2022. 
